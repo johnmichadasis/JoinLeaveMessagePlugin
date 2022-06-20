@@ -1,0 +1,6 @@
+name: WelcomeGoodbye
+version: '${project.version}'
+main: me.michh.welcomegoodbye.Welcomegoodbye
+api-version: 1.19
+authors: [ Michh ]
+description: Join leave messages with colours
